@@ -5,52 +5,184 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>XSAP - 智能SAP工具生态</title>
   <link rel="stylesheet" href="css/style.css" />
+  <style>
+    :root{
+      --bg:#f6f8fa; --card:#ffffff; --accent:#0b66ff; --muted:#6b7280;
+      --max-width:1200px;
+      --radius:12px;
+    }
+    html,body{height:100%}
+    body{
+      margin:0;
+      font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+      background:linear-gradient(180deg,var(--bg),#fff);
+      color:#111827;
+      -webkit-font-smoothing:antialiased;
+      -moz-osx-font-smoothing:grayscale;
+      padding:24px;
+      box-sizing:border-box;
+    }
+
+    .container{
+      max-width:var(--max-width);
+      margin:0 auto;
+      padding:0 16px;
+    }
+
+    header.site-header{
+      display:flex;
+      align-items:center;
+      justify-content:space-between;
+      gap:16px;
+      margin-bottom:24px;
+    }
+    .site-brand{
+      display:flex;
+      align-items:flex-start;
+      gap:16px;
+    }
+    .site-brand h1{
+      margin:0;
+      font-size:1.25rem;
+      line-height:1.2;
+    }
+    .site-brand p{margin:2px 0 0;color:var(--muted);font-size:0.95rem}
+
+    nav.site-nav a{
+      color:var(--muted);
+      text-decoration:none;
+      margin-left:12px;
+      font-size:0.95rem;
+    }
+    nav.site-nav a.primary{
+      background:var(--accent);
+      color:#fff;
+      padding:8px 12px;
+      border-radius:8px;
+      text-decoration:none;
+      margin-left:12px;
+      font-weight:600;
+    }
+
+    main.product-grid{
+      display:grid;
+      grid-template-columns:repeat(1,1fr);
+      gap:18px;
+      align-items:start;
+      margin-bottom:32px;
+    }
+
+    /* larger screens */
+    @media (min-width:640px){
+      main.product-grid{grid-template-columns:repeat(2,1fr)}
+    }
+    @media (min-width:980px){
+      main.product-grid{grid-template-columns:repeat(3,1fr)}
+    }
+
+    .product-card{
+      background:var(--card);
+      border-radius:var(--radius);
+      padding:16px;
+      box-shadow:0 6px 18px rgba(12,20,50,0.06);
+      display:flex;
+      flex-direction:column;
+      gap:12px;
+      transition:transform .16s ease, box-shadow .16s ease;
+      height:100%;
+    }
+    .product-card:hover{transform:translateY(-6px); box-shadow:0 14px 36px rgba(12,20,50,0.09)}
+    .product-card img{
+      width:100%;
+      height:160px;
+      object-fit:cover;
+      border-radius:8px;
+      display:block;
+      background:#eef2ff;
+    }
+    .product-card h2{margin:0;font-size:1.05rem}
+    .product-card p{margin:0;color:var(--muted);flex:1}
+
+    .btn{
+      display:inline-block;
+      background:transparent;
+      color:var(--accent);
+      border:1px solid rgba(11,102,255,0.12);
+      padding:8px 12px;
+      border-radius:8px;
+      text-decoration:none;
+      font-weight:600;
+      transition:background .12s ease,color .12s ease,transform .12s ease;
+      text-align:center;
+    }
+    .btn:focus{outline:3px solid rgba(11,102,255,0.14); outline-offset:2px}
+    .btn:hover{background:var(--accent);color:#fff;transform:translateY(-2px)}
+
+    footer{
+      text-align:center;
+      color:var(--muted);
+      font-size:0.9rem;
+      padding:18px 0;
+      border-top:1px solid rgba(15,23,42,0.04);
+      margin-top:24px;
+    }
+  </style>
 </head>
 <body>
-  <header>
-    <h1>XSAP 智能企业工具套件 最新更新</h1>
-    <p>让 SAP 的使用更轻松、更智能、更高效。</p>
-  </header>
+  <div class="container">
+    <header class="site-header" role="banner">
+      <div class="site-brand">
+        <div>
+          <h1>XSAP 智能企业工具套件</h1>
+          <p>让 SAP 的使用更轻松、更智能、更高效。</p>
+        </div>
+      </div>
+      <nav class="site-nav" aria-label="主导航">
+        <a href="#" aria-current="page">首页</a>
+        <a href="products/" class="primary">产品中心</a>
+      </nav>
+    </header>
 
-  <main class="product-grid">
-    <div class="product-card">
-      <img src="images/sap-notes-app.png" alt="SAP 笔记 App">
-      <h2>SAP 笔记 App</h2>
-      <p>一款智能的 SAP 专业笔记应用，助你随时记录、搜索、归纳知识。</p>
-      <a href="products/sap-notes-app.html" class="btn">了解更多</a>
-    </div>
+    <main class="product-grid" role="main" aria-label="产品列表">
+      <div class="product-card" role="article" aria-labelledby="p1">
+        <img src="images/sap-notes-app.png" alt="SAP 笔记 App" loading="lazy">
+        <h2 id="p1">SAP 笔记 App</h2>
+        <p>一款智能的 SAP 专业笔记应用，助你随时记录、搜索、归纳知识。</p>
+        <a href="products/sap-notes-app.html" class="btn" aria-label="了解更多 SAP 笔记 App">了解更多</a>
+      </div>
 
-    <div class="product-card">
-      <img src="images/smart-mail-client.png" alt="智能邮件客户端">
-      <h2>智能邮件客户端</h2>
-      <p>集成 AI 回复、SAP 文档识别与任务跟踪的智能邮件系统。</p>
-      <a href="products/smart-mail-client.html" class="btn">了解更多</a>
-    </div>
+      <div class="product-card" role="article" aria-labelledby="p2">
+        <img src="images/smart-mail-client.png" alt="智能邮件客户端" loading="lazy">
+        <h2 id="p2">智能邮件客户端</h2>
+        <p>集成 AI 回复、SAP 文档识别与任务跟踪的智能邮件系统。</p>
+        <a href="products/smart-mail-client.html" class="btn" aria-label="了解更多 智能邮件客户端">了解更多</a>
+      </div>
 
-    <div class="product-card">
-      <img src="images/sap-process.png" alt="SAP 流程管理">
-      <h2>SAP 流程管理</h2>
-      <p>可视化的流程建模与审批系统，让 SAP 流程更加灵活。</p>
-      <a href="products/sap-process.html" class="btn">了解更多</a>
-    </div>
+      <div class="product-card" role="article" aria-labelledby="p3">
+        <img src="images/sap-process.png" alt="SAP 流程管理" loading="lazy">
+        <h2 id="p3">SAP 流程管理</h2>
+        <p>可视化的流程建模与审批系统，让 SAP 流程更加灵活。</p>
+        <a href="products/sap-process.html" class="btn" aria-label="了解更多 SAP 流程管理">了解更多</a>
+      </div>
 
-    <div class="product-card">
-      <img src="images/sap-gantt.png" alt="SAP 甘特图">
-      <h2>SAP 甘特图</h2>
-      <p>动态可交互的项目排程视图，支持进度控制与资源分配。</p>
-      <a href="products/sap-gantt.html" class="btn">了解更多</a>
-    </div>
+      <div class="product-card" role="article" aria-labelledby="p4">
+        <img src="images/sap-gantt.png" alt="SAP 甘特图" loading="lazy">
+        <h2 id="p4">SAP 甘特图</h2>
+        <p>动态可交互的项目排程视图，支持进度控制与资源分配。</p>
+        <a href="products/sap-gantt.html" class="btn" aria-label="了解更多 SAP 甘特图">了解更多</a>
+      </div>
 
-    <div class="product-card">
-      <img src="images/sap-login.png" alt="SAP 登录系统管理">
-      <h2>SAP 登录系统管理</h2>
-      <p>统一登录管理平台，支持多系统凭据同步与安全审计。</p>
-      <a href="products/sap-login.html" class="btn">了解更多</a>
-    </div>
-  </main>
+      <div class="product-card" role="article" aria-labelledby="p5">
+        <img src="images/sap-login.png" alt="SAP 登录系统管理" loading="lazy">
+        <h2 id="p5">SAP 登录系统管理</h2>
+        <p>统一登录管理平台，支持多系统凭据同步与安全审计。</p>
+        <a href="products/sap-login.html" class="btn" aria-label="了解更多 SAP 登录系统管理">了解更多</a>
+      </div>
+    </main>
 
-  <footer>
-    <p>© 2025 XSAP.NET | 智能 SAP 工具生态平台</p>
-  </footer>
+    <footer role="contentinfo">
+      <p>© 2025 XSAP.NET | 智能 SAP 工具生态平台</p>
+    </footer>
+  </div>
 </body>
 </html>
