@@ -4,7 +4,7 @@
 
 layout: home
 ---
-<img src="./assets/images/shanghai.jpg" alt="示例图片" width="1024">
+<img src="./assets/images/bg1.jpg" alt="示例图片" width="1024">
 
 Welcome to **XSAP**, your all-in-one platform for smart SAP productivity apps.  
 Explore our tools to enhance your SAP workflow and streamline your business processes.
