@@ -8,7 +8,7 @@ title: "Welcome to XSAP"
 
 # XSAP — Smart Tools for SAP Professionals
 
-![XSAP Logo](/assets/images/logo.png)
+![XSAP Logo](/assets/images/nxxii.png)
 
 Welcome to **XSAP**, your all-in-one platform for smart SAP productivity apps.  
 Explore our tools to enhance your SAP workflow and streamline your business processes.
