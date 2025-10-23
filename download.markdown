@@ -2,6 +2,7 @@
 layout: page
 title: 
 permalink: /download/
+image: /assets/images/nxxii.png
 ---
 
 
