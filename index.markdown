@@ -5,7 +5,6 @@
 layout: home
 ---
 
-# XSAP — Smart Tools for SAP Professionals
 
 ![XSAP Logo](/assets/images/nxxii.png)
 
