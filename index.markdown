@@ -6,7 +6,7 @@ layout: home
 ---
 
 
-![XSAP Logo](/assets/images/shanghai.jpg)
+
 <img src="./assets/images/shanghai.jpg" alt="示例图片" width="300">
 
 Welcome to **XSAP**, your all-in-one platform for smart SAP productivity apps.  
