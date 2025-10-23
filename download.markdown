@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 🚀 Download NxNote
+title: Download
 permalink: /download/
 ---
 
