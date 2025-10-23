@@ -4,7 +4,7 @@ title: 🚀 Download NxNote
 permalink: /download/
 ---
 
-![NxNote Logo](/assets/images/nxxii.png)
+![NxNote Logo](/assets/images/nxxii.png "NXXII")
 
 Welcome to the official download page of **NxNote** — the intelligent note-taking and knowledge management app built for SAP professionals.  
 NxNote helps you organize your SAP insights with AI assistance, rich text editing, tables, charts, code snippets, and advanced search.
