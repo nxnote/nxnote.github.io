@@ -4,7 +4,7 @@ title: Download
 permalink: /download/
 ---
 
-## 🚀 Download NxNote 2.0
+## 🚀 NxNote 2.0
 
 Welcome to the official download page of **NxNote 2.0** — your all-in-one AI-powered workspace for **SAP knowledge, email, and project management**.
 
