@@ -4,7 +4,7 @@ title: Download
 permalink: /download/
 ---
 
-# 🚀 Download NxNote 2.0
+## 🚀 Download NxNote 2.0
 
 Welcome to the official download page of **NxNote 2.0** — your all-in-one AI-powered workspace for **SAP knowledge, email, and project management**.
 
@@ -13,7 +13,7 @@ With over 20 years of experience in SAP implementation and digital transformatio
 
 ---
 
-## 💡 Key Features
+### 💡 Key Features
 
 - **AI Email Client** — Automatically write, summarize, and translate your emails, or insert AI-generated images directly into your messages.
 - **AI Knowledge Base** — Record, summarize, and organize your knowledge locally with full data privacy. Especially optimized for SAP use cases like TCode shortcuts (e.g., double-click `VA01` to open SAP Create Order).
@@ -23,7 +23,7 @@ With over 20 years of experience in SAP implementation and digital transformatio
 
 ---
 
-## 💾 Download Options
+### 💾 Download Options
 
 | Platform | Version | File Type | Download Link |
 |-----------|----------|-----------|----------------|
@@ -35,7 +35,7 @@ With over 20 years of experience in SAP implementation and digital transformatio
 
 ---
 
-## 🔐 System Requirements
+### 🔐 System Requirements
 
 - **OS:** Windows 10 / 11 (64-bit)
 - **RAM:** 4 GB minimum (8 GB recommended)
@@ -44,7 +44,7 @@ With over 20 years of experience in SAP implementation and digital transformatio
 
 ---
 
-## 💬 Support & Feedback
+### 💬 Support & Feedback
 
 We welcome your feedback and ideas!
 - 📧 **Email:** support@xsap.net
