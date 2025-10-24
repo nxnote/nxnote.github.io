@@ -20,7 +20,7 @@ Explore our tools to enhance your SAP workflow and streamline your business proc
 
 ---
 
-[👉 Download Now](/download/Release.zip)
+[👉 Download Now](/download/Release2.0.zip)
 
 <a href="https://paypal.me/yangshuming/20USD" target="_blank">
   <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" alt="Donate with PayPal">
