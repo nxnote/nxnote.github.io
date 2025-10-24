@@ -28,7 +28,6 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://nxnote.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: nxnote
 github_username:  nxnote
-paypal: https://paypal.me/yangshuming/20USD
 
 # Build settings
 theme: minima
