@@ -1,29 +1,25 @@
 ---
 layout: post
-title:  "welcome to XSAP NEW"
+title:  "NXNOTE version 2.0 published"
 date:   2025-10-24
-categories: [Product, AI]
+categories: [Product, AI, SAP]
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-Jekyll requires blog post files to be named according to the following format:
+### 🎉 NxNote 2.0 Release Announcement
 
-`YEAR-MONTH-DAY-title.MARKUP`
+We are excited to announce the official release of NxNote 2.0 — a major update that brings smarter AI features, deeper SAP integration, and a more intuitive workspace for managing your knowledge and workflow.
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+### ✨ New Features in NxNote 2.0
 
-Jekyll also offers powerful support for code snippets:
+| #     | Feature                       | Description                                                                                                                                                                                                                                                                                          |
+| ----- | ----------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1** | **AI Email Client**           | Write emails automatically, summarize long conversations, translate messages instantly, and even insert **AI-generated images** directly into your emails.                                                                                                                                           |
+| **2** | **AI Knowledge Management**   | Record, summarize, and organize your personal knowledge securely — all stored **locally** for maximum data privacy. Especially optimized for **SAP professionals**: for example, typing a TCode like `VA01` allows you to double-click it and instantly log in to SAP’s *Create Sales Order* screen. |
+| **3** | **Flowchart Management**      | Create and manage **project workflows** or any type of process diagram visually and intuitively.                                                                                                                                                                                                     |
+| **4** | **Gantt Chart**               | Plan and track your real projects using a clean, easy-to-use **Gantt chart** — currently supports **day-based** scheduling.                                                                                                                                                                          |
+| **5** | **SAP User Login Management** | Manage multiple SAP systems and user credentials securely. Once configured, you can **log in automatically** without needing to remember multiple passwords.                                                                                                                                         |
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+[👉 Download Now](/download/Release2.0.zip)
+
