@@ -4,73 +4,54 @@ title: Download
 permalink: /download/
 ---
 
-![NxNote Logo](/assets/images/nxxii.png "NXXII")
+# 🚀 Download NxNote 2.0
 
-Welcome to the official download page of **NxNote** — the intelligent note-taking and knowledge management app built for SAP professionals.  
-NxNote helps you organize your SAP insights with AI assistance, rich text editing, tables, charts, code snippets, and advanced search.
+Welcome to the official download page of **NxNote 2.0** — your all-in-one AI-powered workspace for **SAP knowledge, email, and project management**.
 
----
-
-## 🪟 Windows Version
-
-![Windows App Screenshot](/assets/images/download/windows_preview.png)
-
-> **Version:** v1.2.3  
-> **Release Date:** October 22, 2025  
-> **File Size:** 68 MB  
-
-**Download Options:**
-- [📦 Download Windows Installer](assets/downloads/NxNote_Setup.exe)  
-- [🧰 Download Portable ZIP Package](assets/downloads/NxNote_Portable.zip)
-
-> 💡 *Tip:* If the download speed is slow, try our mirror:  
-> `https://xsap.net/mirror/NxNote_Setup.exe`
+NxNote is built for **SAP consultants, project managers, and enterprise users** who want to work smarter with the help of AI.
+With over 20 years of experience in SAP implementation and digital transformation, our team designed NxNote to make knowledge management, process planning, and SAP automation more intelligent and efficient.
 
 ---
 
-## 🍎 macOS Version (Coming Soon)
+## 💡 Key Features
 
-![macOS Screenshot](/assets/images/download/mac_preview.png)
-
-The macOS version is currently under development and will provide a native experience optimized for Apple Silicon.  
-Stay tuned and check our [Changelog](/changelog/) for updates.
-
----
-
-## 📱 Mobile Version (In Development)
-
-NxNote for iOS and Android is coming soon — enabling you to access and edit your notes anywhere, anytime.  
-Want early access? Join our **beta program**:
-
-👉 [Join Beta Program](mailto:support@xsap.net?subject=Join%20NxNote%20Beta)
+- **AI Email Client** — Automatically write, summarize, and translate your emails, or insert AI-generated images directly into your messages.
+- **AI Knowledge Base** — Record, summarize, and organize your knowledge locally with full data privacy. Especially optimized for SAP use cases like TCode shortcuts (e.g., double-click `VA01` to open SAP Create Order).
+- **Flowchart Builder** — Design and visualize your SAP or business workflows with an intuitive drag-and-drop editor.
+- **Gantt Chart** — Manage your projects and schedules in a clear timeline view (day-based).
+- **SAP Login Manager** — Save credentials and automatically log in to multiple SAP systems securely.
 
 ---
 
-## 💡 Installation Notes
+## 💾 Download Options
 
-- Before installation, make sure your system has [.NET 8.0 Runtime](https://dotnet.microsoft.com/download/dotnet/8.0) installed.  
-- Administrator privileges may be required to install the setup version.
+| Platform | Version | File Type | Download Link |
+|-----------|----------|-----------|----------------|
+| **Windows 10 / 11 (64-bit)** | 2.0 | `.exe` | [Download Now](/download/Release2.0.zip) |
+| **macOS (Intel / Apple Silicon)** | Coming Soon | `.dmg` | in progress |
+| **Linux (Ubuntu / Debian)** | Coming Soon | `.AppImage` | in progress |
 
----
-
-## 📸 Feature Gallery
-
-| Feature | Screenshot |
-|----------|-------------|
-| Rich Text Editor | ![](/assets/images/download/editor.png) |
-| AI Assistant | ![](/assets/images/download/ai_chat.png) |
-| Embedded Charts | ![](/assets/images/download/chart_embed.png) |
-| Smart Search | ![](/assets/images/download/search.png) |
+> ⚙️ *The Windows version is fully standalone — no installation of SAP GUI or external dependencies required.*
 
 ---
 
-## 🧾 Release Notes
+## 🔐 System Requirements
 
-Check out the [Changelog page](/changelog/) for detailed release history, improvements, and bug fixes.
+- **OS:** Windows 10 / 11 (64-bit)
+- **RAM:** 4 GB minimum (8 GB recommended)
+- **Storage:** 500 MB free space
+- **Network:** Optional — NxNote works fully offline for local AI knowledge management.
 
 ---
 
-## 💬 Support
+## 💬 Support & Feedback
 
-If you encounter any issues or have suggestions, please contact our support team:  
-📧 [support@xsap.net](mailto:support@xsap.net)
+We welcome your feedback and ideas!
+- 📧 **Email:** support@xsap.net
+- 🌐 **Website:** [https://xsap.net](https://xsap.net)
+- 💙 **Support the project:** [paypal.me/yangshuming/20USD](https://paypal.me/yangshuming/20USD)
+
+---
+
+### 🌟 Make AI your daily SAP assistant.
+Download **NxNote 2.0** today and experience a smarter, faster way to work.
