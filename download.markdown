@@ -28,8 +28,8 @@ With over 20 years of experience in SAP implementation and digital transformatio
 | Platform | Version | File Type | Download Link |
 |-----------|----------|-----------|----------------|
 | **Windows 10 / 11 (64-bit)** | 2.0 | `.exe(.zip)` | [Download Now](/download/Release2.0.zip) |
-| **macOS (Intel / Apple Silicon)** | Coming Soon | `.dmg` | in progress |
-| **Linux (Ubuntu / Debian)** | Coming Soon | `.AppImage` | in progress |
+| **macOS (Intel / Apple Silicon)** | in progress | `.dmg` | in progress |
+| **Linux (Ubuntu / Debian)** | in progress | `.AppImage` | in progress |
 
 > ⚙️ *The Windows version is fully standalone — no installation of SAP GUI or external dependencies required.*
 
