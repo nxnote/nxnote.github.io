@@ -6,8 +6,9 @@ layout: home
 ---
 <img src="./assets/images/bg2.jpg" alt="示例图片" width="1024">
 
-Welcome to **XSAP**, your all-in-one platform for smart SAP productivity apps.  
-Explore our tools to enhance your SAP workflow and streamline your business processes.
+Welcome to **XSAP**, your all-in-one platform for smart SAP productivity apps **NXNOTE**.  
+Explore our tools to enhance your SAP workflow and streamline your business processes. 
+Our group company is [**NXXII**](https://nxxii.com).
 
 ---
 
