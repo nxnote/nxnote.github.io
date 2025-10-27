@@ -47,7 +47,7 @@ With over 20 years of experience in SAP implementation and digital transformatio
 ### 💬 Support & Feedback
 
 We welcome your feedback and ideas!
-- 📧 **Email:** support@xsap.net
+- 📧 **Email:** ysm@xsap.net
 - 🌐 **Website:** [https://xsap.net](https://xsap.net)
 - 💙 **Support the project:** [paypal.me/yangshuming/20USD](https://paypal.me/yangshuming/20USD)
 
