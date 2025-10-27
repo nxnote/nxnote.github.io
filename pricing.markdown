@@ -15,15 +15,13 @@ Choose the plan that best fits your needs.
 Ideal for personal learning and small-scale note taking.
 
 **Included:**
-- Basic note management
+- Basic note management with basic AI assistant
+- Email client with basic AI assistant
 - SAP process documentation features
-- Cloud sync (limited data)
+- Local storage
+- SAP system login management
 - Community support
 
-**Not Included:**
-- AI email integration  
-- SAP system auto-login  
-- Enterprise workflow features
 
 > Perfect for trying out our core features.
 
@@ -33,9 +31,7 @@ Ideal for personal learning and small-scale note taking.
 Best choice for consultants and small business users.
 
 **Everything in Free, plus:**
-- AI email assistant
-- SAP login automation
-- Unlimited cloud sync storage
+- Powerful AI email assistant with picture AI generation
 - Priority support
 
 **Upgrade Link:**  
@@ -47,10 +43,11 @@ Best choice for consultants and small business users.
 For professional SAP engineers and heavy users.
 
 **Everything in Standard, plus:**
+- Powerful AI email assistant with unlimited picture AI generation
 - Advanced SAP workflow automation
 - Customizable business templates
-- Multi-device sync (Windows / Mac / iPad)
 - Fast-lane support & remote guidance 1-on-1
+- SAP basic training 
 
 **Upgrade Link:**  
 [Pay via PayPal](https://paypal.me/yangshuming/99USD)
@@ -64,11 +61,11 @@ For companies that require full AI-driven SAP workflow solutions.
 - On-premise deployment (optional)
 - Enterprise security & private cloud access
 - Organization user management
-- AI sales order inquiry automation
+- Profession SAP training
 - Dedicated technical support team
 
 **Contact for Ordering:**  
-📧 Email: sales@xsap.net  
+📧 Email: ysm@xsap.net  
 🌐 Website: https://xsap.net
 
 ---
@@ -79,10 +76,14 @@ For companies that require full AI-driven SAP workflow solutions.
 |---|:---:|:---:|:---:|:---:|
 | Basic Note Management | ✅ | ✅ | ✅ | ✅ |
 | SAP Process Documentation | ✅ | ✅ | ✅ | ✅ |
-| AI Email Integration | ❌ | ✅ | ✅ | ✅ |
-| SAP Auto Login Tool | ❌ | ✅ | ✅ | ✅ |
-| Business Workflow Templates | ❌ | ❌ | ✅ | ✅ |
+| SAP Login Managerment Tool | ✅ | ✅ | ✅ | ✅ |
+| SAP Business Workflow Tool | ✅ | ✅ | ✅ | ✅ |
+| SAP project Gantt Tool | ✅ | ✅ | ✅ | ✅ |
+| AI Email Integration | ✅ | ✅ | ✅ | ✅ |
+| AI picture generation | ❌ | ✅ | ✅ | ✅ |
+| AI picture generation unlimited | ❌ | ❌ | ✅ | ✅ |
 | Private Cloud / Local Server Deploy | ❌ | ❌ | ❌ | ✅ |
+| Customiz development per requirement | ❌ | ❌ | ❌ | ✅ |
 | Dedicated Support | Community | Priority | Premium | Enterprise-Level |
 
 ---
