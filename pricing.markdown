@@ -83,7 +83,7 @@ For companies that require full AI-driven SAP workflow solutions.
 | AI picture generation | ❌ | ✅ | ✅ | ✅ |
 | AI picture generation unlimited | ❌ | ❌ | ✅ | ✅ |
 | Private Cloud / Local Server Deploy | ❌ | ❌ | ❌ | ✅ |
-| Customiz development per requirement | ❌ | ❌ | ❌ | ✅ |
+| Customize develop per requirement | ❌ | ❌ | ❌ | ✅ |
 | Dedicated Support | Community | Priority | Premium | Enterprise-Level |
 
 ---
