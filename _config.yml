@@ -71,7 +71,7 @@ jsonld: |
       "description": "NXNote is a professional AI-powered knowledge management software for SAP experts, designed to organize SAP documentation, process diagrams, project plans, and intelligent workflows. It integrates seamlessly with SAP systems and AI-driven email automation.",
       "publisher": {
         "@type": "Organization",
-        "name": "Shanghai Niaoxun Information Technology Co., Ltd",
+        "name": "Shanghai Niaoxun Information Technology Co., Ltd.",
         "url": "https://nxxii.com",
         "sameAs": [
           "https://www.wikidata.org/wiki/Q136653173",
