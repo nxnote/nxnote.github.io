@@ -54,6 +54,6 @@ jsonld: |
 ### 🎉 How to use note function in NXNote
 
 <video autoplay loop muted playsinline controls style="width: 100%; max-width: 750px; height: auto;">
-  <source src="./assets/videos/nxnote.webm" type="video/webm">
+  <source src="../assets/videos/nxnote.webm" type="video/webm">
 </video>
 
