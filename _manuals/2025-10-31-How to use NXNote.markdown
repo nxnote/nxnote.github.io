@@ -1,6 +1,6 @@
 ---
 layout: manual
-title:  "NXNOTE version 2.0 published"
+title:  "How to use note function"
 date:   2025-10-24
 categories: [Product, AI, SAP]
 jsonld: |
@@ -51,7 +51,7 @@ jsonld: |
     }
 ---
 
-### 🎉 NxNote 2.0 Release Announcement
+### 🎉 NxNote 2.0 Release Announcement 2
 
 We are excited to announce the official release of NxNote 2.0 — a major update that brings smarter AI features, deeper SAP integration, and a more intuitive workspace for managing your knowledge and workflow.
 
