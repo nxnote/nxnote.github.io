@@ -54,6 +54,12 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+collections:
+  manuals:
+    output: true
+    permalink: /manuals/:title/
+
 jsonld: |
     {
       "@context": "https://schema.org",

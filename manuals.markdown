@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Manuals
 permalink: /manuals/
 jsonld: |
@@ -58,27 +58,12 @@ jsonld: |
     
 ---
 
-<div class="home">
+<h1>User Manuals</h1>
 
-  {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "User manuals" }}</h2>
-    <ul class="post-list">
-      {%- for post in site.posts -%}
-      <li>
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
-        <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-        </h3>
-        {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
-        {%- endif -%}
-      </li>
-      {%- endfor -%}
-    </ul>
-
-  {%- endif -%}
-
-</div>
+<ul>
+  {% for manual in site.manuals %}
+    <li>
+      <a href="{{ manual.url }}">{{ manual.title }}</a> - {{ manual.date | date: "%Y-%m-%d" }}
+    </li>
+  {% endfor %}
+</ul>
