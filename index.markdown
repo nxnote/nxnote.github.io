@@ -21,6 +21,11 @@ Our group company is [**NXXII**](https://nxxii.com).
 
 ---
  
+ ### How does it look like
+<video autoplay loop muted playsinline width="600">
+  <source src="./assets/videos/nxnote.webm" type="video/webm">
+</video>
+
 
 [👉 Download Now](/download/Release2.0.zip)
 
