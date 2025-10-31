@@ -1,7 +1,7 @@
 ---
 layout: manual
 title:  "How to use note function"
-date:   2025-10-24
+date:   2025-10-31
 categories: [Product, AI, SAP]
 jsonld: |
     {
