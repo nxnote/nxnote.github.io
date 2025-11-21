@@ -51,7 +51,7 @@ jsonld: |
     }
 ---
 
-### 🎉 How to use note function in NXNote
+### 🎉 How to use SAP AI process designer in NXNote
 
 <video autoplay loop muted playsinline controls style="width: 100%; max-width: 750px; height: auto;">
   <source src="{{ '/assets/videos/update_customer_tax_no_via_ai.mp4' | relative_url }}" type="video/mp4">
