@@ -54,4 +54,4 @@ We welcome your feedback and ideas!
 ---
 
 ### 🌟 Make AI your daily SAP assistant.
-Download [**NxNote 2.0**](/download/xnote2.0.zip) today and experience a smarter, faster way to work.
+Download [**NxNote 2.0**](/download/nxnote2.0.zip) today and experience a smarter, faster way to work.
