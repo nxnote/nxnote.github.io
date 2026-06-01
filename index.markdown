@@ -29,7 +29,7 @@ Our group company is [**NXXII**](https://nxxii.com).
 
 
 
-[👉 Download Now](/download/nxnote2.0.zip)
+[👉 Download Now](/download/nxnote3.0.zip)
 
 <a href="https://paypal.me/yangshuming/20USD" target="_blank">
   <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" alt="Donate with PayPal">

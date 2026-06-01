@@ -11,7 +11,7 @@ jsonld: |
       "applicationCategory": "BusinessApplication",
       "applicationSubCategory": "Knowledge Management",
       "operatingSystem": "Windows",
-      "softwareVersion": "2.0",
+      "softwareVersion": "3.0",
       "datePublished": "2025-10-24",
       "programmingLanguage": "Dart",
       "url": "https://xsap.net",
