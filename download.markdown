@@ -4,9 +4,9 @@ title: Download
 permalink: /download/
 ---
 
-## 🚀 NxNote 2.0
+## 🚀 NxNote 3.0
 
-Welcome to the official download page of **NxNote 2.0** — your all-in-one AI-powered workspace for **SAP knowledge, email, and project management**.
+Welcome to the official download page of **NxNote 3.0** — your all-in-one AI-powered workspace for **SAP knowledge, email, and project management**.
 
 NxNote is built for **SAP consultants, project managers, and enterprise users** who want to work smarter with the help of AI.
 With over 20 years of experience in SAP implementation and digital transformation, our team designed NxNote to make knowledge management, process planning, and SAP automation more intelligent and efficient.
