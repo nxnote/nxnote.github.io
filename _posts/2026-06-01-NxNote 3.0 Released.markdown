@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "NXNOTE version 2.0 published"
+title:  "NXNOTE version 3.0 published"
 date:   2026-06-01
 categories: [Product, AI, SAP]
 jsonld: |
