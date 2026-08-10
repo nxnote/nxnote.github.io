@@ -27,7 +27,7 @@ With over 20 years of experience in SAP implementation and digital transformatio
 
 | Platform | Version | File Type | Download Link |
 |-----------|----------|-----------|----------------|
-| **Windows 10 / 11 (64-bit)** | 3.0 | `.exe(.zip)` | [Download Now](/download/nxnote3.0.zip) |
+| **Windows 10 / 11 (64-bit)** | 3.0 | `.msix` | [Download Now](https://apps.microsoft.com/detail/9nbwcxv0vrpv) |
 | **macOS (Intel / Apple Silicon)** | in progress | `.dmg` | in progress |
 | **Linux (Ubuntu / Debian)** | in progress | `.AppImage` | in progress |
 
@@ -54,4 +54,4 @@ We welcome your feedback and ideas!
 ---
 
 ### 🌟 Make AI your daily SAP assistant.
-Download [**NxNote 3.0**](/download/nxnote3.0.zip) today and experience a smarter, faster way to work.
+Download [**NxNote 3.0**](https://apps.microsoft.com/detail/9nbwcxv0vrpv) today and experience a smarter, faster way to work.
